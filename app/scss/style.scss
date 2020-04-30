@@ -1,0 +1,25 @@
+@import "../../node_modules/normalize.css/normalize";
+
+body{
+  background-color: #777;
+  margin: 0 auto;
+  background-color: red;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+}
+::placeholder {
+  color: gray;
+}
+a {
+    font-family: Arial;
+    font-style: italic;
+    font-size: 14px;
+    line-height: 18px; 
+    font-weight: bold;
+    background-image: url('example.png');
+    background-color: red;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
